@@ -37,8 +37,6 @@ Vue          19 mins         ▓░░░░░░░░░░░░░░░░
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  目前先把微服务学习完一遍，最后写一个微服务的项目           
