@@ -7,8 +7,8 @@ hi, 我是[小钦Var🐸](https://github.com/JYbill/), 一个充满激情的自�
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💼 目前大四准备实习
-- 💬 我很乐意和大家交流想法和未来技术趋势。
+- 💼 在一家小公司做node全栈
+- 💬 我很乐意和大家交流想法和未来技术趋势。特别是EcmaScript、TypeScript
 
 **我熟练或使用过的语言和框架以及工具:**  
 
@@ -38,10 +38,11 @@ Vue3         19 mins         ▓░░░░░░░░░░░░░░░░
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  找到nodejs全栈岗           
-🌸  学习Vue3、PWA、React      
-✅  nest整合微服务开发         
-⏳   nodejs爬虫
+🏆  专一nodejs全栈岗          
+🌸  React     
+✅  midway.js         
+⏳  node底层、《深入浅出Node.js》
+🚀  koa底层...
 <!-- TODO-IST:END -->
 
 
