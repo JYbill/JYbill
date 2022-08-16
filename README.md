@@ -13,24 +13,23 @@ hi, 我是[小钦Var🐸](https://github.com/JYbill/), 一个充满激情的自�
 **我熟练或使用过的语言和框架以及工具:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></code>
 
 📊 **这周使用的语言和框架:**
 <!--START_SECTION:waka-->
 
 ```text
-Typescript   6 hrs 21 mins   ████████████░░░░░░░░░░░░░   48.10 % 
-nest.js      4 hrs 52 mins   █████████▒░░░░░░░░░░░░░░░   36.83 % 
-Java         1 hr 39 mins    █████░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Vue3         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Typescript   6 hrs 21 mins   ████████████░░░░░░░░░░░   50.00 % 
+midway.js    4 hrs 52 mins   █████████░░░░░░░░░░░░░░   30.00 % 
+React        19 mins         █████░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 <!--END_SECTION:waka-->
