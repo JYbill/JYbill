@@ -50,7 +50,7 @@ Github 来见证我的成长
 
 ## 📊 **最喜欢的语言：**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=html,javascript,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=html,javascript,css,GLSL,Astro)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 
 ## 🚧 **今年计划:**
@@ -63,6 +63,6 @@ Github 来见证我的成长
 ⏳ 深入学习 `typescript`  
 📖 空闲时间学习 `Rust`(我相信 `Rust` 与 `js` 一定会有更多的亲密接触的)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JYbill&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JYbill&show_icons=true&theme=gotham" alt="" />
 
-<a href="https://github.com/JYBill"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JYBill&custom_title=小🐸's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/JYBill"><img alt="xiaoqinvar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JYBill&custom_title=小🐸's%20Contribution%20Graph&theme=react-dark" /></a>
