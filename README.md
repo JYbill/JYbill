@@ -57,11 +57,12 @@ Github 来见证我的成长
 
 <!-- TODO-IST:START -->
 
-🏆 实践 midway.js(这是一个我很喜欢甚至超过`nest.js`的喜欢的一个 ts、ioc、aop 于一身的强大框架)  
-🌸 实践 `React`  
-✅ 整合 `casbin` + `prisma` + `midway.js` + `passport` + `react` 出一个 `casbin` 可视化的新手教程  
-⏳ 深入学习 `typescript`  
-📖 空闲时间学习 `Rust`(我相信 `Rust` 与 `js` 一定会有更多的亲密接触的)
+🏆 实践 midway.js(这是一个我很喜欢甚至超过`nest.js`的喜欢的一个 ts、ioc、aop 于一身的强大框架)
+
+- 实践 `React`
+- 整合 `casbin` + `prisma` + `midway.js` + `passport` + `react` 出一个 `casbin` 可视化的新手教程
+- ✅ 深入学习 `typescript`
+- 空闲时间学习 `Rust`(我相信 `Rust` 与 `js` 一定会有更多的亲密接触的)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JYbill&show_icons=true&theme=gotham" alt="" />
 
