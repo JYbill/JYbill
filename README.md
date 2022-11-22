@@ -66,4 +66,4 @@ Github 来见证我的成长
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JYbill&show_icons=true&theme=gotham" alt="" />
 
-<a href="https://github.com/JYBill"><img alt="xiaoqinvar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JYBill&custom_title=小🐸's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/JYBill"><img alt="xiaoqinvar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JYBill&custom_title=xiaoqinvar's%20Contribution%20Graph&theme=react-dark" /></a>
