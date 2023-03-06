@@ -4,7 +4,7 @@
 </p>
 
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-hi, 我是[小钦 🐸](https://github.com/JYbill/), 热爱`TypeScript`技术栈的后台开发人员，我很期待通过
+hi, 我是[xiaoqinvar](https://github.com/JYbill/), 热爱`TypeScript`技术栈的后台开发人员，我很期待通过
 Github 来见证我的成长
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -50,7 +50,7 @@ Github 来见证我的成长
 
 ## 📊 **最喜欢的语言：**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=html,javascript,css,GLSL,Astro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 
 ## 🚧 **今年计划:**
@@ -59,11 +59,9 @@ Github 来见证我的成长
 
 🏆 实践 midway.js(这是一个我很喜欢甚至超过`nest.js`的喜欢的一个 ts、ioc、aop 于一身的强大框架)
 
-- 实践 `React`
-- 整合 `casbin` + `prisma` + `midway.js` + `passport` + `react` 出一个 `casbin` 可视化的新手教程
-- ✅ 深入学习 `typescript`
-- 空闲时间学习 `Rust`(我相信 `Rust` 与 `js` 一定会有更多的亲密接触的)
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JYbill&show_icons=true&theme=gotham" alt="" />
-
-<a href="https://github.com/JYBill"><img alt="xiaoqinvar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JYBill&custom_title=xiaoqinvar's%20Contribution%20Graph&theme=react-dark" /></a>
+- ✅ 阅读《Redis 开发与运维》（开发部分）
+- 👀 阅读《MongoDB 权威指南（第三版）》
+- 找到晋升空间大的平台
+- 深入 MySQL 书籍及原理
+- nodejs 微服务（MQ、RPC、DB、Redis）
+- web3、区块链
