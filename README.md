@@ -61,8 +61,11 @@ Github 来见证我的成长
 
 - ✅ 阅读《Redis 开发与运维》（开发部分）
 - 👀 阅读《MongoDB 权威指南（第三版）》
-- 找到晋升空间大的平台
-- 学习 nestjs（像大生态的 node 企业级框架妥协）
+- 👀 找到晋升空间大的平台
+- ✅ 学习 nestjs（像大生态的 node 企业级框架妥协）
+  - 基础 ✅
+  - 高级 ✅
+- 🔥 NX Monorepo 仓库解决方案之一
 - 深入 MySQL 书籍及原理
 - nodejs 微服务（MQ、RPC、DB、Redis）
 - web3、区块链
