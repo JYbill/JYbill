@@ -43,14 +43,17 @@ Github 来见证我的成长
 
 ## 🔧**熟练使用的语言或工具:**
 
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=black">
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
+<img alt="TypeScript" src="https://img.shields.io/badge/-Vue.js-black?logo=Vue.js&logoColor=green">
 <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
 <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
+<img alt="nest.js" src="https://img.shields.io/badge/-nest.js-black?logo=nestjs&logoColor=red">
 <br/><br/>
 
 ## 📊 **最喜欢的语言：**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 
 ## 🚧 **今年计划:**
@@ -62,10 +65,12 @@ Github 来见证我的成长
 - ✅ 阅读《Redis 开发与运维》（开发部分）
 - 👀 阅读《MongoDB 权威指南（第三版）》
 - 👀 找到晋升空间大的平台
-- ✅ 学习 nestjs（像大生态的 node 企业级框架妥协）
-  - 基础 ✅
-  - 高级 ✅
-- 🔥 NX Monorepo 仓库解决方案之一
+- ✅ 学习 nestjs（向大生态的 node 企业级框架妥协）
+- ✅ NX Monorepo 仓库解决方案之一
+- 👀 《Vue3.js 设计与实现》
 - 深入 MySQL 书籍及原理
 - nodejs 微服务（MQ、RPC、DB、Redis）
-- web3、区块链
+- web3、区块链、Dapp、以太坊
+
+<p align="center"><img src="https://profile-counter.glitch.me/{JYbill}/count.svg" alt="JYbill :: Visitor's Count" /></p>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
