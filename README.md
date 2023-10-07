@@ -60,7 +60,7 @@ Github 来见证我的成长
 
 <!-- TODO-IST:START -->
 
-🏆 实践 midway.js(这是一个我很喜欢甚至超过`nest.js`的喜欢的一个 ts、ioc、aop 于一身的强大框架)
+🏆 实践 nest.js 第三方登录实践、第三方支付实践
 
 - ✅ 阅读《Redis 开发与运维》（开发部分）
 - ✅ 学习 nestjs（向大生态的 node 企业级框架妥协）
