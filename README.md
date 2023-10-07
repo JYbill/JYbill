@@ -63,11 +63,12 @@ Github 来见证我的成长
 🏆 实践 midway.js(这是一个我很喜欢甚至超过`nest.js`的喜欢的一个 ts、ioc、aop 于一身的强大框架)
 
 - ✅ 阅读《Redis 开发与运维》（开发部分）
-- 👀 阅读《MongoDB 权威指南（第三版）》
-- 👀 找到晋升空间大的平台
 - ✅ 学习 nestjs（向大生态的 node 企业级框架妥协）
 - ✅ NX Monorepo 仓库解决方案之一
+- 👀 《Hello 算法》通关数据结构和算法
+- 👀 找到晋升空间大的平台
 - 👀 《Vue3.js 设计与实现》
+- 👀 阅读《MongoDB 权威指南（第三版）》
 - 深入 MySQL 书籍及原理
 - nodejs 微服务（MQ、RPC、DB、Redis）
 - web3、区块链、Dapp、以太坊
