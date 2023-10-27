@@ -51,6 +51,29 @@ Github 来见证我的成长
 <img alt="nest.js" src="https://img.shields.io/badge/-nest.js-black?logo=nestjs&logoColor=red">
 <br/><br/>
 
+```typescript
+const xiaoqinvar = {
+    pronouns: "xqv" | "frog" | "小青蛙🐸",
+    technologies: {
+      frontEnd: {
+          frame: ["Vue", "React"],
+          css: ["sass"],
+      },
+      backEnd: {
+        nodejs: [
+          express: ["express", "nestjs(🔥)"],
+          koa2: ["egg.js", "midway.js"]
+        ],
+        java: ["SSM", "springBoot", "springBootAlibaba"]
+      },
+      DB: ["MySql", "oracle"， "MongoDB"],
+      cache: ["Redis"],
+      service: ["nginx", "docker", "linux"],
+      net: ["HTTP/1.1", "TSL", "TCP/IP"]
+    }
+};
+```
+
 ## 📊 **最喜欢的语言：**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
@@ -65,6 +88,7 @@ Github 来见证我的成长
 - ✅ 阅读《Redis 开发与运维》（开发部分）
 - ✅ 学习 nestjs（向大生态的 node 企业级框架妥协）
 - ✅ NX Monorepo 仓库解决方案之一
+- 👀 基于 nestjs 的认证授权 SSO 登录系统
 - 👀 《Hello 算法》通关数据结构和算法
 - 👀 找到晋升空间大的平台
 - 👀 《Vue3.js 设计与实现》
@@ -74,4 +98,6 @@ Github 来见证我的成长
 - web3、区块链、Dapp、以太坊
 
 <p align="center"><img src="https://profile-counter.glitch.me/{JYbill}/count.svg" alt="JYbill :: Visitor's Count" /></p>
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JYbill&repo=xqv-solution&show_owner=true)](https://github.com/JYbill/xqv-solution)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JYbill&repo=passport-combine-casbin&show_owner=true)](https://github.com/JYbill/passport-combine-casbin)
