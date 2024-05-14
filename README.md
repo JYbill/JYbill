@@ -33,7 +33,6 @@ Github 来见证我的成长
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" width="300" />
 
 ## 🤔️ 我在干嘛？
 
@@ -49,6 +48,13 @@ Github 来见证我的成长
 <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
 <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
 <img alt="nest.js" src="https://img.shields.io/badge/-nest.js-black?logo=nestjs&logoColor=red">
+<img alt="redis" src="https://img.shields.io/badge/-redis-black?logo=redis&logoColor=red">
+<img alt="mysql" src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=blue">
+<img alt="react" src="https://img.shields.io/badge/-react-black?logo=react&logoColor=blue">
+<img alt="express" src="https://img.shields.io/badge/-express-white?logo=express&logoColor=black">
+<img alt="koa2" src="https://img.shields.io/badge/-koa2-white?logo=koa&logoColor=black">
+<img alt="prisma" src="https://img.shields.io/badge/-prisma-white?logo=prisma&logoColor=black">
+<img alt="nginx" src="https://img.shields.io/badge/-nginx-white?logo=nginx&logoColor=green">
 <br/><br/>
 
 ```typescript
@@ -85,17 +91,14 @@ const xiaoqinvar = {
 
 🏆 实践 nest.js 第三方登录实践、第三方支付实践
 
-- ✅ 阅读《Redis 开发与运维》（开发部分）
-- ✅ 学习 nestjs（向大生态的 node 企业级框架妥协）
-- ✅ NX Monorepo 仓库解决方案之一
-- 👀 基于 nestjs 的认证授权 SSO 登录系统
-- 👀 《Hello 算法》通关数据结构和算法
-- 👀 找到晋升空间大的平台
-- 👀 《Vue3.js 设计与实现》
-- 👀 阅读《MongoDB 权威指南（第三版）》
-- 深入 MySQL 书籍及原理
+- ✅ 找到晋升空间大的平台
+- ✅ 《Vue3.js 设计与实现》
+- 👀 阅读《从零蛋学习MySQL》
+- 《从根上了解MySQL运行》
 - nodejs 微服务（MQ、RPC、DB、Redis）
 - web3、区块链、Dapp、以太坊
+- 基于 nestjs 的认证授权 SSO 登录系统
+- 《Hello 算法》通关数据结构和算法
 
 <p align="center"><img src="https://profile-counter.glitch.me/{JYbill}/count.svg" alt="JYbill :: Visitor's Count" /></p>
 
