@@ -93,8 +93,9 @@ const xiaoqinvar = {
 
 - ✅ 找到晋升空间大的平台
 - ✅ 《Vue3.js 设计与实现》
-- 👀 阅读《从零蛋学习MySQL》
-- 《从根上了解MySQL运行》
+- ✅ 阅读《从零蛋学习MySQL》
+- 👀 Rust 语言学习
+- 👀《从根上了解MySQL运行》
 - nodejs 微服务（MQ、RPC、DB、Redis）
 - web3、区块链、Dapp、以太坊
 - 基于 nestjs 的认证授权 SSO 登录系统
