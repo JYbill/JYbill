@@ -8,7 +8,7 @@ hi, 我是[xiaoqinvar](https://github.com/JYbill/), 热爱`TypeScript`技术栈�
 Github 来见证我的成长
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<div>
+<div style="display: flex;">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
@@ -58,26 +58,64 @@ Github 来见证我的成长
 <br/><br/>
 
 ```typescript
-const xiaoqinvar = {
-    pronouns: "xqv" | "frog" | "小青蛙🐸",
-    technologies: {
-      frontEnd: {
-          frame: ["Vue", "React"],
-          css: ["sass"],
-      },
-      backEnd: {
-        nodejs: [
-          express: ["express", "nestjs(🔥)"],
-          koa2: ["egg.js", "midway.js"]
-        ],
-        java: ["SSM", "springBoot", "springBootAlibaba"]
-      },
-      DB: ["MySql", "oracle"， "MongoDB"],
-      cache: ["Redis"],
-      service: ["nginx", "docker", "linux"],
-      net: ["HTTP/1.1", "TSL", "TCP/IP"]
-    }
-};
+// 精通 > 熟练掌握 > 掌握 > 了解
+{
+	"工作经验": "3年",// 6.25
+	"基础": [
+		"计算机组成"/*了解*/, 
+		"二进制"/*了解*/, 
+		"字符集编码解码"/*了解*/, 
+		"数据结构与算法"/*了解*/,
+		"设计模式"/*了解*/,
+		"对称加密、非对称加密、混淆、常见编码解码(base64、URI)"/*掌握*/,
+	],
+	"前端": {
+		"三剑客": ["html", "css", "js"]/*精通*/
+		"Vue": ["Vue全家桶", "element-ui"],/*精通*/
+		"Ract": ["Ract全家桶", "antd", "umijs", "zustand"]/*掌握*/
+	},
+	"后端": {
+		"nodejs": {
+			"通用型中间件": [
+				"大部分中间件"/*掌握*/, 
+				"passport"/*精通*/
+			],
+			"express": ["express", "nest.js"],/*熟练掌握*/
+			"koa": ["koa", "egg.js", "midway.js"]/*熟练掌握*/
+		},
+		"db": ["mongodb"/*掌握*/, "mysql"]/*熟练掌握*/,
+		"mq": ["rabbitMQ"/*了解*/, "kafka"/*了解*/],
+		"memory cache": ["redis"/*掌握*/],
+		"search engin": ["elastic search"/*了解*/]
+	},
+	"运维": ["linux常用命令"/*熟练掌握*/, "docker"/*熟练掌握*/, "k8s"/*了解*/, "k3s"/*了解*/],
+	"特定业务场景": {
+		"通用型业务": {
+			"IAM": ["认证要素", "TOTP/OTP", "WebAuthn", "OAuth2.x", "OpenID Connect(OIDC)", "RBAC/ABAC/ReBAC...", "JWT(对称/非对称加密签名)", "SSO"]/*熟练*/
+			"大文件上传下载": ["分片上传", "分片下载", "超大文件下载"],/*精通*/
+			"日志上报": ["拆分微服务 + 异步MQ + db", "db分库分表"],/*了解*/
+		},
+		"音视频开发": [],
+		"代理流量": ["VPN隧道"/*了解*/, "代理协议 + clash引擎"/*熟练掌握*/],
+	},
+	"网络": {
+		"IP": "",/*了解*/
+		"ARP": "",/*了解，寻址协议，互联网通信环节之一*/
+		"TCP": "",/*掌握*/
+		"UDP": "",/*了解*/
+		"TLS": "",/*熟练掌握*/
+		"HTTP": ["HTTPS"/*精通*/, "HTTP1.1"/*精通*/, "HTTP2"/*了解*/, "HTTP3/QUIC"/*了解*/],
+		"SSH": ["SSH隧道"],/*了解*/
+		"DHCP": "",/*了解*/
+		"DNS": "",/*掌握*/
+		"TFP": ["STFP(SSH + TFP)"],/*了解*/
+		"CDN": "",/*了解*/
+		"webRTC": "",/*了解*/
+		"websocket": "",/*了解*/
+		"代理协议": ["sock5", "Shadowsocks", "V2Fly", "TLS/HTTP + 代理协议组合"],/*了解*/
+		"局域网通信": ["运行商IP查询", "同一网通信", "路由器知识"],/*了解*/
+	}
+}
 ```
 
 ## 📊 **最喜欢的语言：**
