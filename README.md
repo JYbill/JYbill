@@ -54,6 +54,8 @@ Github 来见证我的成长
     <img alt="koa2" src="https://img.shields.io/badge/-koa2-white?logo=koa&logoColor=black">
     <img alt="prisma" src="https://img.shields.io/badge/-prisma-white?logo=prisma&logoColor=black">
     <img alt="nginx" src="https://img.shields.io/badge/-nginx-white?logo=nginx&logoColor=green">
+    <img alt="nginx" src="https://img.shields.io/badge/-astro-black?logo=astro&logoColor=orange">
+    <img alt="nginx" src="https://img.shields.io/badge/-webpack-black?logo=webpack&logoColor=blue">
 </div>
 <br/><br/>
 
