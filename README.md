@@ -120,20 +120,10 @@ Github 来见证我的成长
 <br/><br/>
 
 ## 🚧 **今年计划:**
-
-<!-- TODO-IST:START -->
-
-🏆 实践 nest.js 第三方登录实践、第三方支付实践
-
-- ✅ 找到晋升空间大的平台
-- ✅ 《Vue3.js 设计与实现》
-- ✅ 阅读《从零蛋学习MySQL》
-- 👀 Rust 语言学习
-- 👀《从根上了解MySQL运行》
-- nodejs 微服务（MQ、RPC、DB、Redis）
-- web3、区块链、Dapp、以太坊
-- 基于 nestjs 的认证授权 SSO 登录系统
-- 《Hello 算法》通关数据结构和算法
+- 研究IAM(OAuth2.x协议、OIDC协议) 🔥
+- 研究授权模型以及各个模型的适用场景(RBAC、ReBAC、ABAC...)
+- 学习网络、网络安全
+- 区块链、合约开发
 
 <p align="center"><img src="https://profile-counter.glitch.me/{JYbill}/count.svg" alt="JYbill :: Visitor's Count" /></p>
 
