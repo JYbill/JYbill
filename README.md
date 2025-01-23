@@ -33,11 +33,9 @@ Github 来见证我的成长
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-## 🤔️ 我在干嘛？
-
-- 💼 在一家小公司做 node 全栈
+## 🤔 兴趣
 - 💬 我很乐意和大家交流想法和未来技术趋势；特别
-  是`EcmaScript`、`TypeScript`、`node.js`、`分布式架构`、`区块链技术`、`web3.0` <br/><br/>
+  是`node.js`、`网络`、`网络安全`、`IAM` <br/><br/>
 
 ## 🔧**熟练使用的语言或工具:**
 <div>
