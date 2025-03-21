@@ -118,10 +118,10 @@ Github 来见证我的成长
 <br/><br/>
 
 ## 🚧 **今年计划:**
+- 学习RAG AI大模型相关应用 🤖
 - 研究IAM(OAuth2.x协议、OIDC协议) 🔥
 - 研究授权模型以及各个模型的适用场景(RBAC、ReBAC、ABAC...)
-- 学习网络、网络安全
-- 区块链、合约开发
+- 学习网络
 
 <p align="center"><img src="https://profile-counter.glitch.me/{JYbill}/count.svg" alt="JYbill :: Visitor's Count" /></p>
 
